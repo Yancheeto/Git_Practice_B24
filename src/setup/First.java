@@ -9,5 +9,9 @@ public class First {
         System.out.println("Another week of training in the books");
 
         //text doesn't matter here
+
+        System.out.println("October is beautiful month");
+
+        //another random text
     }
 }
