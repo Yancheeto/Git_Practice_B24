@@ -6,6 +6,7 @@ public class Third {
         System.out.println("Looking up tea options");
         //these comments are useless
         //anyways keep making them
+        System.out.println("Let's merged now");
 
     }
 
